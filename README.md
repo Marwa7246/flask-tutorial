@@ -10,7 +10,8 @@ python3 -m venv env
 ### Check content of env folder
 ls env ==> bin  include  lib  lib64  pyvenv.cfg
 ### Activate enviroments
-source env/bin/activate ==> prompt will be : 
+source env/bin/activate   
+==> prompt will be : 
 (env) marwa@pop-os:~/learning-python/flask-tutorial$
 ### Install flask 
 pip install flask
